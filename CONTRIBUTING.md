@@ -19,7 +19,7 @@ If you know how to code, we welcome you to send fixes and new features, but in o
 * Fork this repo using the button at the top.
 * Clone your forked repo locally.
 
-``$ git clone git@github.com:yourname/webogram.git``
+``$ git clone https://github.com/yourname/webogram.git``
 
 * Don't modify or work on the master branch, we'll use it to always be in sync with webogram upstream.
 
